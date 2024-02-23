@@ -1,0 +1,11 @@
+DATADIR = 'datasets'
+
+ADJ = '_A.txt'
+GRAPHIND = '_graph_indicator.txt'
+GRAPHLABEL = '_graph_labels.txt'
+NEWLABEL = '_graph_newlabel.txt'
+NODELABEL = '_node_labels.txt'
+NODEATTR = '_node_attributes.txt'
+TRAIN = '_train.txt'
+VAL = '_val.txt'
+TEST = '_test.txt'
