@@ -67,6 +67,4 @@ title = {Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detecti
 year = {2024},
 booktitle = {ICLR},
 }
-
-# RQGNN
-# RQGNN
+```
