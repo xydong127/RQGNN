@@ -24,9 +24,9 @@ Download zip files from [TUDatasets](https://chrsmrrs.github.io/datasets/) and u
 │   │	├── MCF-7_graph_indicator.txt
 │   │	├── MCF-7_graph_labels.txt
 │   │	├── MCF-7_node_labels.txt
-│	├── dataset.py  
-│	├── datautils.py
-│	├── name.py
+│   ├── dataset.py  
+│   ├── datautils.py
+│   ├── name.py
 ```
 Use dataset.py to split train, val, and test sets. 
 
